@@ -25,10 +25,10 @@ and game logic in C.
 
 ## How to Compile and Run
 ```bash
-gcc main.c -o tictactoe
+gcc main.c -o tic-tac-toe
 ```
 Then run it:
 
 ```bash
-./tictactoe      # Linux / Mac
-tictactoe.exe    # Windows
+./tic-tac-toe      # Linux / Mac
+tic-tac-toe.exe    # Windows
